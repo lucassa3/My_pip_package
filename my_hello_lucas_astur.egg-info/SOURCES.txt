@@ -1,0 +1,10 @@
+README.md
+setup.py
+my_hello/__init__.py
+my_hello/my_hello.py
+my_hello_lucas_astur.egg-info/PKG-INFO
+my_hello_lucas_astur.egg-info/SOURCES.txt
+my_hello_lucas_astur.egg-info/dependency_links.txt
+my_hello_lucas_astur.egg-info/requires.txt
+my_hello_lucas_astur.egg-info/top_level.txt
+scripts/hello.py
